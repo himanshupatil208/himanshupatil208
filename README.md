@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himanshu Patil 👋</h1>
 
 <p align="center">
-  <img src="./profile.jpg" width="180" style="border-radius: 50%;" alt="Himanshu Patil" />
+  <img src="./Himanshu.png" width="180" style="border-radius: 50%;" alt="Himanshu Patil" />
 </p>
 
 <p align="center">
