@@ -70,17 +70,13 @@ Software Engineer building scalable backend systems and AI-powered applications
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshupatil208&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatil208&layout=compact&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatil208&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatil208&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupatil208&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Let's connect — always happy to talk backend architecture, ML systems, or new opportunities.</i>
+  <img src="https://streak-stats.demolab.com?user=himanshupatil208&theme=github-dark-blue&hide_border=true" />
 </p>
