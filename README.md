@@ -69,14 +69,4 @@ Software Engineer building scalable backend systems and AI-powered applications
 ---
 
 ### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshupatil208&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatil208&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshupatil208&theme=github-dark-blue&hide_border=true" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshupatil208&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatil208&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupatil208&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=himanshupatil208&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupatil208&theme=redical&hide_border=true" /> </p>
